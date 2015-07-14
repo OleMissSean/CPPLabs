@@ -1,4 +1,4 @@
-// Program BoxesWithFunction prompts for the number of dollar signs 
+// Program boxesWithFunction prompts for the number of dollar signs 
 // for the top of the box.  That number / 2 - 2  lines are 
 // printed with dollar signs on the sides.        
 
