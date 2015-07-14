@@ -2,7 +2,7 @@
 Sean Staz
 CSC 2134
 6-2 Exercise 4
-Program SumDigits prompts for and reads a one-digit number.
+Program sumDigits prompts for and reads a one-digit number.
 Values between 0 and the digit (inclusive) are summed.
 */
 
