@@ -1,2 +1,2 @@
 # CPPLabs
-These are Labs for CSC 2134: C++.
+These are labs for CSC 2134: C++.
