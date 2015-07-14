@@ -1,8 +1,8 @@
 /* 
 Sean Staz
 CSC 2134
-Program CountUC
-Program CountUC counts the number of uppercase letterson a line.
+Program countUC
+Program countUC counts the number of uppercase letterson a line.
 */
 
 #include <iostream>
