@@ -1,8 +1,8 @@
 /*
 Sean Staz
 CSC 2134
-Program BoxesWithFunction
-Program BoxesWithFunction promts for a symbol and length to create a box.
+Program boxesWithFunction
+Program boxesWithFunction promts for a symbol and length to create a box.
 */     
 
 #include <iostream>
